@@ -14,8 +14,8 @@ Open :(https://68c843f1b15b950ceab6ebc8--heroic-boba-a617f0.netlify.app/) to vie
 
 
 ### Else want personal bot
- Step 1: Download from the git repository
- Step 2: Name it to health-ai-bot repo
- Step 3: type npm start in your terminal or command line 
- Step 4: Your personalized bot is ready
+ Step 1: Download from the git repository \n
+ Step 2: Name it to health-ai-bot repo \n
+ Step 3: type npm start in your terminal or command line \n
+ Step 4: Your personalized bot is ready \n
  
